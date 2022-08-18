@@ -1,0 +1,15 @@
+D:\C#program\AddressBook1\LamdaConcept\UC_4Retreiveavg\bin\Debug\net6.0\UC_4Retreiveavg.exe
+D:\C#program\AddressBook1\LamdaConcept\UC_4Retreiveavg\bin\Debug\net6.0\UC_4Retreiveavg.deps.json
+D:\C#program\AddressBook1\LamdaConcept\UC_4Retreiveavg\bin\Debug\net6.0\UC_4Retreiveavg.runtimeconfig.json
+D:\C#program\AddressBook1\LamdaConcept\UC_4Retreiveavg\bin\Debug\net6.0\UC_4Retreiveavg.dll
+D:\C#program\AddressBook1\LamdaConcept\UC_4Retreiveavg\bin\Debug\net6.0\UC_4Retreiveavg.pdb
+D:\C#program\AddressBook1\LamdaConcept\UC_4Retreiveavg\obj\Debug\net6.0\UC_4Retreiveavg.csproj.AssemblyReference.cache
+D:\C#program\AddressBook1\LamdaConcept\UC_4Retreiveavg\obj\Debug\net6.0\UC_4Retreiveavg.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#program\AddressBook1\LamdaConcept\UC_4Retreiveavg\obj\Debug\net6.0\UC_4Retreiveavg.AssemblyInfoInputs.cache
+D:\C#program\AddressBook1\LamdaConcept\UC_4Retreiveavg\obj\Debug\net6.0\UC_4Retreiveavg.AssemblyInfo.cs
+D:\C#program\AddressBook1\LamdaConcept\UC_4Retreiveavg\obj\Debug\net6.0\UC_4Retreiveavg.csproj.CoreCompileInputs.cache
+D:\C#program\AddressBook1\LamdaConcept\UC_4Retreiveavg\obj\Debug\net6.0\UC_4Retreiveavg.dll
+D:\C#program\AddressBook1\LamdaConcept\UC_4Retreiveavg\obj\Debug\net6.0\refint\UC_4Retreiveavg.dll
+D:\C#program\AddressBook1\LamdaConcept\UC_4Retreiveavg\obj\Debug\net6.0\UC_4Retreiveavg.pdb
+D:\C#program\AddressBook1\LamdaConcept\UC_4Retreiveavg\obj\Debug\net6.0\UC_4Retreiveavg.genruntimeconfig.cache
+D:\C#program\AddressBook1\LamdaConcept\UC_4Retreiveavg\obj\Debug\net6.0\ref\UC_4Retreiveavg.dll
