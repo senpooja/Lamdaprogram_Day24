@@ -1,0 +1,15 @@
+D:\C#program\AddressBook1\LamdaConcept\UC_6SkipRecord\bin\Debug\net6.0\UC_6SkipRecord.exe
+D:\C#program\AddressBook1\LamdaConcept\UC_6SkipRecord\bin\Debug\net6.0\UC_6SkipRecord.deps.json
+D:\C#program\AddressBook1\LamdaConcept\UC_6SkipRecord\bin\Debug\net6.0\UC_6SkipRecord.runtimeconfig.json
+D:\C#program\AddressBook1\LamdaConcept\UC_6SkipRecord\bin\Debug\net6.0\UC_6SkipRecord.dll
+D:\C#program\AddressBook1\LamdaConcept\UC_6SkipRecord\bin\Debug\net6.0\UC_6SkipRecord.pdb
+D:\C#program\AddressBook1\LamdaConcept\UC_6SkipRecord\obj\Debug\net6.0\UC_6SkipRecord.csproj.AssemblyReference.cache
+D:\C#program\AddressBook1\LamdaConcept\UC_6SkipRecord\obj\Debug\net6.0\UC_6SkipRecord.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#program\AddressBook1\LamdaConcept\UC_6SkipRecord\obj\Debug\net6.0\UC_6SkipRecord.AssemblyInfoInputs.cache
+D:\C#program\AddressBook1\LamdaConcept\UC_6SkipRecord\obj\Debug\net6.0\UC_6SkipRecord.AssemblyInfo.cs
+D:\C#program\AddressBook1\LamdaConcept\UC_6SkipRecord\obj\Debug\net6.0\UC_6SkipRecord.csproj.CoreCompileInputs.cache
+D:\C#program\AddressBook1\LamdaConcept\UC_6SkipRecord\obj\Debug\net6.0\UC_6SkipRecord.dll
+D:\C#program\AddressBook1\LamdaConcept\UC_6SkipRecord\obj\Debug\net6.0\refint\UC_6SkipRecord.dll
+D:\C#program\AddressBook1\LamdaConcept\UC_6SkipRecord\obj\Debug\net6.0\UC_6SkipRecord.pdb
+D:\C#program\AddressBook1\LamdaConcept\UC_6SkipRecord\obj\Debug\net6.0\UC_6SkipRecord.genruntimeconfig.cache
+D:\C#program\AddressBook1\LamdaConcept\UC_6SkipRecord\obj\Debug\net6.0\ref\UC_6SkipRecord.dll
