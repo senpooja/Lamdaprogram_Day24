@@ -1,0 +1,15 @@
+D:\C#program\AddressBook1\LamdaConcept\UC_2_Retrieve\bin\Debug\net6.0\UC_2_Retrieve.exe
+D:\C#program\AddressBook1\LamdaConcept\UC_2_Retrieve\bin\Debug\net6.0\UC_2_Retrieve.deps.json
+D:\C#program\AddressBook1\LamdaConcept\UC_2_Retrieve\bin\Debug\net6.0\UC_2_Retrieve.runtimeconfig.json
+D:\C#program\AddressBook1\LamdaConcept\UC_2_Retrieve\bin\Debug\net6.0\UC_2_Retrieve.dll
+D:\C#program\AddressBook1\LamdaConcept\UC_2_Retrieve\bin\Debug\net6.0\UC_2_Retrieve.pdb
+D:\C#program\AddressBook1\LamdaConcept\UC_2_Retrieve\obj\Debug\net6.0\UC_2_Retrieve.csproj.AssemblyReference.cache
+D:\C#program\AddressBook1\LamdaConcept\UC_2_Retrieve\obj\Debug\net6.0\UC_2_Retrieve.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#program\AddressBook1\LamdaConcept\UC_2_Retrieve\obj\Debug\net6.0\UC_2_Retrieve.AssemblyInfoInputs.cache
+D:\C#program\AddressBook1\LamdaConcept\UC_2_Retrieve\obj\Debug\net6.0\UC_2_Retrieve.AssemblyInfo.cs
+D:\C#program\AddressBook1\LamdaConcept\UC_2_Retrieve\obj\Debug\net6.0\UC_2_Retrieve.csproj.CoreCompileInputs.cache
+D:\C#program\AddressBook1\LamdaConcept\UC_2_Retrieve\obj\Debug\net6.0\UC_2_Retrieve.dll
+D:\C#program\AddressBook1\LamdaConcept\UC_2_Retrieve\obj\Debug\net6.0\refint\UC_2_Retrieve.dll
+D:\C#program\AddressBook1\LamdaConcept\UC_2_Retrieve\obj\Debug\net6.0\UC_2_Retrieve.pdb
+D:\C#program\AddressBook1\LamdaConcept\UC_2_Retrieve\obj\Debug\net6.0\UC_2_Retrieve.genruntimeconfig.cache
+D:\C#program\AddressBook1\LamdaConcept\UC_2_Retrieve\obj\Debug\net6.0\ref\UC_2_Retrieve.dll
