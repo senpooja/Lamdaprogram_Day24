@@ -1,0 +1,15 @@
+D:\C#program\AddressBook1\LamdaConcept\LamdaConcept\bin\Debug\net6.0\LamdaConcept.exe
+D:\C#program\AddressBook1\LamdaConcept\LamdaConcept\bin\Debug\net6.0\LamdaConcept.deps.json
+D:\C#program\AddressBook1\LamdaConcept\LamdaConcept\bin\Debug\net6.0\LamdaConcept.runtimeconfig.json
+D:\C#program\AddressBook1\LamdaConcept\LamdaConcept\bin\Debug\net6.0\LamdaConcept.dll
+D:\C#program\AddressBook1\LamdaConcept\LamdaConcept\bin\Debug\net6.0\LamdaConcept.pdb
+D:\C#program\AddressBook1\LamdaConcept\LamdaConcept\obj\Debug\net6.0\LamdaConcept.csproj.AssemblyReference.cache
+D:\C#program\AddressBook1\LamdaConcept\LamdaConcept\obj\Debug\net6.0\LamdaConcept.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#program\AddressBook1\LamdaConcept\LamdaConcept\obj\Debug\net6.0\LamdaConcept.AssemblyInfoInputs.cache
+D:\C#program\AddressBook1\LamdaConcept\LamdaConcept\obj\Debug\net6.0\LamdaConcept.AssemblyInfo.cs
+D:\C#program\AddressBook1\LamdaConcept\LamdaConcept\obj\Debug\net6.0\LamdaConcept.csproj.CoreCompileInputs.cache
+D:\C#program\AddressBook1\LamdaConcept\LamdaConcept\obj\Debug\net6.0\LamdaConcept.dll
+D:\C#program\AddressBook1\LamdaConcept\LamdaConcept\obj\Debug\net6.0\refint\LamdaConcept.dll
+D:\C#program\AddressBook1\LamdaConcept\LamdaConcept\obj\Debug\net6.0\LamdaConcept.pdb
+D:\C#program\AddressBook1\LamdaConcept\LamdaConcept\obj\Debug\net6.0\LamdaConcept.genruntimeconfig.cache
+D:\C#program\AddressBook1\LamdaConcept\LamdaConcept\obj\Debug\net6.0\ref\LamdaConcept.dll
