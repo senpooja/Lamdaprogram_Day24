@@ -1,0 +1,15 @@
+D:\C#program\AddressBook1\LamdaConcept\UC_5SpecificName\bin\Debug\net6.0\UC_5SpecificName.exe
+D:\C#program\AddressBook1\LamdaConcept\UC_5SpecificName\bin\Debug\net6.0\UC_5SpecificName.deps.json
+D:\C#program\AddressBook1\LamdaConcept\UC_5SpecificName\bin\Debug\net6.0\UC_5SpecificName.runtimeconfig.json
+D:\C#program\AddressBook1\LamdaConcept\UC_5SpecificName\bin\Debug\net6.0\UC_5SpecificName.dll
+D:\C#program\AddressBook1\LamdaConcept\UC_5SpecificName\bin\Debug\net6.0\UC_5SpecificName.pdb
+D:\C#program\AddressBook1\LamdaConcept\UC_5SpecificName\obj\Debug\net6.0\UC_5SpecificName.csproj.AssemblyReference.cache
+D:\C#program\AddressBook1\LamdaConcept\UC_5SpecificName\obj\Debug\net6.0\UC_5SpecificName.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#program\AddressBook1\LamdaConcept\UC_5SpecificName\obj\Debug\net6.0\UC_5SpecificName.AssemblyInfoInputs.cache
+D:\C#program\AddressBook1\LamdaConcept\UC_5SpecificName\obj\Debug\net6.0\UC_5SpecificName.AssemblyInfo.cs
+D:\C#program\AddressBook1\LamdaConcept\UC_5SpecificName\obj\Debug\net6.0\UC_5SpecificName.csproj.CoreCompileInputs.cache
+D:\C#program\AddressBook1\LamdaConcept\UC_5SpecificName\obj\Debug\net6.0\UC_5SpecificName.dll
+D:\C#program\AddressBook1\LamdaConcept\UC_5SpecificName\obj\Debug\net6.0\refint\UC_5SpecificName.dll
+D:\C#program\AddressBook1\LamdaConcept\UC_5SpecificName\obj\Debug\net6.0\UC_5SpecificName.pdb
+D:\C#program\AddressBook1\LamdaConcept\UC_5SpecificName\obj\Debug\net6.0\UC_5SpecificName.genruntimeconfig.cache
+D:\C#program\AddressBook1\LamdaConcept\UC_5SpecificName\obj\Debug\net6.0\ref\UC_5SpecificName.dll
