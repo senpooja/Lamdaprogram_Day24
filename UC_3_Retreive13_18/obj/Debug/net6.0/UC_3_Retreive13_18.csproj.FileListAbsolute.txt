@@ -1,0 +1,15 @@
+D:\C#program\AddressBook1\LamdaConcept\UC_3_Retreive13_18\bin\Debug\net6.0\UC_3_Retreive13_18.exe
+D:\C#program\AddressBook1\LamdaConcept\UC_3_Retreive13_18\bin\Debug\net6.0\UC_3_Retreive13_18.deps.json
+D:\C#program\AddressBook1\LamdaConcept\UC_3_Retreive13_18\bin\Debug\net6.0\UC_3_Retreive13_18.runtimeconfig.json
+D:\C#program\AddressBook1\LamdaConcept\UC_3_Retreive13_18\bin\Debug\net6.0\UC_3_Retreive13_18.dll
+D:\C#program\AddressBook1\LamdaConcept\UC_3_Retreive13_18\bin\Debug\net6.0\UC_3_Retreive13_18.pdb
+D:\C#program\AddressBook1\LamdaConcept\UC_3_Retreive13_18\obj\Debug\net6.0\UC_3_Retreive13_18.csproj.AssemblyReference.cache
+D:\C#program\AddressBook1\LamdaConcept\UC_3_Retreive13_18\obj\Debug\net6.0\UC_3_Retreive13_18.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#program\AddressBook1\LamdaConcept\UC_3_Retreive13_18\obj\Debug\net6.0\UC_3_Retreive13_18.AssemblyInfoInputs.cache
+D:\C#program\AddressBook1\LamdaConcept\UC_3_Retreive13_18\obj\Debug\net6.0\UC_3_Retreive13_18.AssemblyInfo.cs
+D:\C#program\AddressBook1\LamdaConcept\UC_3_Retreive13_18\obj\Debug\net6.0\UC_3_Retreive13_18.csproj.CoreCompileInputs.cache
+D:\C#program\AddressBook1\LamdaConcept\UC_3_Retreive13_18\obj\Debug\net6.0\UC_3_Retreive13_18.dll
+D:\C#program\AddressBook1\LamdaConcept\UC_3_Retreive13_18\obj\Debug\net6.0\refint\UC_3_Retreive13_18.dll
+D:\C#program\AddressBook1\LamdaConcept\UC_3_Retreive13_18\obj\Debug\net6.0\UC_3_Retreive13_18.pdb
+D:\C#program\AddressBook1\LamdaConcept\UC_3_Retreive13_18\obj\Debug\net6.0\UC_3_Retreive13_18.genruntimeconfig.cache
+D:\C#program\AddressBook1\LamdaConcept\UC_3_Retreive13_18\obj\Debug\net6.0\ref\UC_3_Retreive13_18.dll
